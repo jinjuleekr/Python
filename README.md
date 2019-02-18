@@ -1,4 +1,4 @@
-# Python_Bitcoding
+# Python_Crawling 
 
-비트 코딩 알고리즘  풀이입니다.
+파이썬을 통한 크롤링 코드 모음입니다.
 
